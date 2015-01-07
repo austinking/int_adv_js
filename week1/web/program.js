@@ -1,8 +1,8 @@
-document.write('hello world');
+document.write('hello worldz');
 
 foo();
 
 function foo() {
 	debugger;
-	console.log('bar');
+	console.log('barllzs');
 }

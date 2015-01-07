@@ -60,7 +60,18 @@ ECMAScript (ECMA-262 revision 5.1)
     node --debug --debug-brk week1/main.js
     # Open http://127.0.0.1:8080/debug?port=5858 in Chrome or Opera
 
-## [JSDoc](http://usejsdoc.org/)
+### [JSDoc](http://usejsdoc.org/)
+
+## Deep Understanding
+
+This class won't cover everything related to JavaScript... it's too huge a topic.
+
+The core secret to becoming an Advanced JS programmer, is to keep digging until you truley understand a technology or topic.
+
+Being able to add jQuery to a project and use it to get a couple things done isn't enough!
+
+Read jQuery's source code. Understand what problems it solves for you. Know how to solve them directly in JavaScript.
+Evaluate multiple factors (library code size, added complexity, browser matrix support, amount of unused features, etc)
 
 ## References
 
