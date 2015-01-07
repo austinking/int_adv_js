@@ -35,10 +35,10 @@ ECMAScript (ECMA-262 revision 5.1)
 
 ## History
 
-* Created in 10 days for Netscape 2.0
+* 1995 Created in 10 days for Netscape 2.0
 * Name and Syntax a result of business deals with Sun
-* Quickly standardized as ECMAScript 262
-* Slightly useful, Flash for heavy lifting
+* 1996 Quickly standardized as ECMAScript 262
+* Slightly useful, Flash plugin for heavy lifting/ads/games on the web
 * 2004 - Ajax pattern - JS becomes more powerful
 * 2008 / 2010 - Canvas and Amazing Perf - JS instead of Flash
 * 2009 - CommonJS / NodeJS modules
