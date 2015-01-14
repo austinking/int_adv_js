@@ -4,5 +4,5 @@ foo();
 
 function foo() {
 	debugger;
-	console.log('barllzs');
-}
+	console.log('wow');
+} 

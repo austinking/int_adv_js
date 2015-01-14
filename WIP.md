@@ -1,3 +1,7 @@
+# Work in Progress
+
+Raw material for curriculum
+
 Week 1
 Why JavaScript (Chapter 1)
 Tools - NodeJS, Debugger and debugger statement, JSDoc (http://usejsdoc.org/)

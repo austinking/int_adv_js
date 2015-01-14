@@ -4,20 +4,6 @@
 
 Int -> Advanced JS
 
-## Basic Project
-
-[web](week1/web) - setup
-
-    $ cd week1/web
-    $ ../../server.sh
-
-Use `Cnt-C` to quit the web server.
-
-[NodeJS](week1/nodejs)  - setup
-
-    $ node
-    > 
-
 ## What is JavaScript
 
 ECMAScript (ECMA-262 revision 5.1)
@@ -42,14 +28,49 @@ ECMAScript (ECMA-262 revision 5.1)
 * 2004 - Ajax pattern - JS becomes more powerful
 * 2008 / 2010 - Canvas and Amazing Perf - JS instead of Flash
 * 2009 - CommonJS / NodeJS modules
-* 2014 - Unreal Engine - webgl + JS
+* 2014 - [Unreal Engine](https://www.youtube.com/watch?v=_RDkCVFPl2Q) - webgl + JS [car demo with unreal 3 engine](http://tegleg.co.uk/ue4/cartegeditor.html)
+
+## Basic Project
+
+[web](week1/web) - setup
+
+    $ cd week1/web
+    $ npm install live-server
+    $ live-server
+
+Use `Cnt-C` to quit the web server.
+
+[NodeJS](week1/nodejs)  - setup
+
+    $ node
+    > 
+
 
 ## Tools
+
+The Web and therefore JavaScript, has grown organically over time.
+There is no batteries included stack.
+
+[have them type in code to see each of the following in action]
+
 ### JSLint / JSHint
 
-    npm install jshint
+    $ npm install jshint
+    $ jshint week1/program.js
 
 ### Mocha (or some other testing framework)
+
+[fat finger](week1/test/test-program.js)
+
+    $ cd week1/nodejs
+    $ npm install mocha
+    $ mkdir test
+    $ emacs test/test-program.js
+    $ mocha
+
+### Browser Debugger
+
+    debugger;
 
 ### node-inspector
     npm install node-inspector
@@ -86,3 +107,11 @@ Evaluate multiple factors (library code size, added complexity, browser matrix s
 
 ### NodeJS
 * http://nodejs.org/api/
+
+## Next Week
+
+On going project?
+
+Read Chapter 2
+
+
